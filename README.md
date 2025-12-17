@@ -1,7 +1,5 @@
 # Hi 👋, I'm Woodzow
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Woodzow&label=Profile views&color=0e75b6&style=flat" alt="Woodzow" /> </p>
-
 - 🔭 I'm currently working on **Ad-Hoc protocol application layer development: OLSR AODV**
 
 - 🌱 I'm currently learning **python,lua**
