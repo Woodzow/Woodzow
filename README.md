@@ -1,4 +1,4 @@
-# Hi 👋, I'm wuzhong
+# Hi 👋, I'm Woodzow
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Woodzow&label=Profile views&color=0e75b6&style=flat" alt="Woodzow" /> </p>
 
@@ -21,5 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Woodzow&show_icons=true&locale=en&layout=compact" alt="Woodzow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Woodzow&show_icons=true&locale=en" alt="Woodzow" /></p>
-
 
