@@ -6,7 +6,7 @@
   - Edge Computing and Offloading in Satellite Networks
   - Graph Neural Networks, Graph Perception, and Graph Attention Mechanisms
 
-- 🌱 I'm currently learning **GNN,DRL,**
+- 🌱 I'm currently learning **GNN, DRL, research survey**
 
 - 📫 How to reach me **wuzhongwz23@gmail.com**
 
