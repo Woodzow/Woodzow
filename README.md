@@ -1,6 +1,9 @@
 # Hi 👋, I'm Woodzow
 
-- 🔭 I'm currently working on **Ad-Hoc protocol application layer development: OLSR AODV**
+- 🔭 I'm currently working on **Compute-Aware Routing in Space-Based Computing Networks
+Distributed Collaborative Decision-Making with Multi-Agent Reinforcement Learning
+Edge Computing and Offloading in Satellite Networks
+Graph Neural Networks, Graph Perception, and Graph Attention Mechanisms**
 
 - 🌱 I'm currently learning **python,lua**
 
