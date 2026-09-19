@@ -1,15 +1,18 @@
 # Hi 👋, I'm Woodzow
 
-- 🔭 I'm currently working on **Compute-Aware Routing in Space-Based Computing Networks
-Distributed Collaborative Decision-Making with Multi-Agent Reinforcement Learning
-Edge Computing and Offloading in Satellite Networks
-Graph Neural Networks, Graph Perception, and Graph Attention Mechanisms**
+- 🔭 I'm currently working on
+- **Compute-Aware Routing in Space-Based Computing Networks**
+- **Distributed Collaborative Decision-Making with Multi-Agent Reinforcement Learning**
+- **Edge Computing and Offloading in Satellite Networks**
+- **Graph Neural Networks, Graph Perception, and Graph Attention Mechanisms**
 
-- 🌱 I'm currently learning **python,lua**
+- 🌱 I'm currently learning **GNN,DRL,**
 
 - 📫 How to reach me **wuzhongwz23@gmail.com**
 
-- ⚡ Fun fact **py2--->py3**
+- 💻 More information in my homepage **woodzow.top**
+
+- ⚡ Fun fact **concentrating on**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
