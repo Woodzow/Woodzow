@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **wuzhongwz23@gmail.com**
 
-- 💻 More information in my [homepage](woodzow.top)
+- 💻 More information in my [homepage](https://woodzow.top)
 
 - ⚡ Fun fact **concentrating on**
 
